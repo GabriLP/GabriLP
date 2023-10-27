@@ -55,7 +55,7 @@
 ### [restful mindspace](https://gabrilp.github.io/meditation-app/)
 <div align="center">
   <a target="_blank" href="https://github.com/GabriLP/meditation-app">
-    <img src="Project1Image.jpg" alt="Project 1" width="400">
+    <img align="center" src="Project1Image.jpg" alt="Project 1" width="400">
   </a>
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
   <a target="_blank" href="Link to Project">
-    <img src="Project2Image.jpg" alt="Project 2" width="400">
+    <img align="center" src="Project2Image.jpg" alt="Project 2" width="400">
   </a>
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
   <a target="_blank" href="Link to Project">
-    <img src="Project3Image.jpg" alt="Project 3" width="400">
+    <img align="center" src="Project3Image.jpg" alt="Project 3" width="400">
   </a>
 </div>
 
@@ -95,12 +95,6 @@
 <div align="center">
   - Let's connect!     
     <a target="_blank" href="https://www.linkedin.com/in/gabrielelapiana/">
-      <img alt=”LinkedIn” src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-    </a>
-</div>
-<div align="center">
-  - Discord:     
-    <a target="_blank" href="https://www.linkedin.com/in/gabrielelapiana/">
-      <img alt=”LinkedIn” src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/> 
+      <img align="center" alt=”LinkedIn” src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
     </a>
 </div>
