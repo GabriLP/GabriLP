@@ -92,6 +92,9 @@
 <div align="center">
   - Email: gabrilp@live.com
 </div>
+
+<br/>
+
 <div align="center">
   - Let's connect!     
     <a target="_blank" href="https://www.linkedin.com/in/gabrielelapiana/">
