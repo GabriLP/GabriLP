@@ -2,7 +2,7 @@
 
 <div align="center">I'm Gabriele, a front-end developer based in Palermo, Italy. Welcome to my GitHub profile, where I showcase some of my personal projects.</div>
 
-## 🔧 Skills
+## 🔧 My toolbox
 
 <div align="center">
   <div align="center">
@@ -11,7 +11,7 @@
 
   </br>
 
-  <b>Languages</b>: 
+  <b>Core languages</b>: 
     <img align="center" alt=”HTML5” src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt=”CSS3” src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt=”JavaScript” src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <b>Bundler, compilers</b>:
+  <b>Build tools</b>:
     <img align="center" alt=”Webpack” src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/> 
     <img align="center" alt=”Babel” src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/> 
 </div>
@@ -36,14 +36,14 @@
 <br/>
 
 <div align="center">
-  <b>Hosting</b>:
+  <b>Deployment platforms</b>:
     <img align="center" alt=”GitHub Pages” src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/> 
 </div>
 
 <br/>
 
 <div align="center">
-  <b>Versioning</b>:
+  <b>Version control</b>:
     <img align="center" alt=”Git” src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
     <img align="center" alt=”GitHub” src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
 </div>
@@ -51,6 +51,8 @@
 <br/>
 
 ## 🌟 Projects
+
+Here are a few highlights from my project portfolio. Each project represents a piece of the journey in my coding career.
 
 ### [restful mindspace](https://gabrilp.github.io/meditation-app/)
 <div align="center">
@@ -60,7 +62,7 @@
 </div>
 
 <div align="center">
-  <p>Explore the tranquility of the Restful Mindspace meditation app. Check out the <a href="https://gabrilp.github.io/meditation-app/">live demo</a> too! 🪷</p>
+  <p>Embark on a journey to peace with Restful Mindspace, a meditation app designed to help you find your zen. Delve into the <a href="https://gabrilp.github.io/meditation-app/">live demo</a>.</p>
 </div>
 
 ### [InstaMeteo](https://gabrilp.github.io/MeteOggi/)
@@ -72,7 +74,7 @@
 </div>
 
 <div align="center">
-  <p>A web application that allows you to check the current weather and forecast for any location.</p>
+  <p>Stay updated with InstaMeteo, a web application that delivers live weather updates and forecasts at your fingertips.</p>
 </div>
 
 ### [CountMeIn!](https://gabrilp.github.io/counter-app/)
@@ -83,21 +85,21 @@
   </a>
 </div>
 
-<div align="center">
-  <p>A counter application that lets you easily increase or decrease the count using buttons or keyboard keys.</p>
+<div>
+  <p>CountMeIn! is a sleek counter application that demonstrates simplicity in design and function, emphasizing usability and accessibility.</p>
 </div>
 
 ## 📫 Contact
 
+Whether you have a question or just want to say hi, I'll try my best to get back to you!
+
 <div align="center">
-  - Email: gabrilp@live.com
+  📧 Email: <a href="mailto:gabrilp@live.com">gabrilp@live.com</a>
 </div>
-
 <br/>
-
 <div align="center">
-  - Let's connect!     
-    <a target="_blank" href="https://www.linkedin.com/in/gabrielelapiana/">
-      <img align="center" alt=”LinkedIn” src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  - Find me on LinkedIn for a more professional connection:
+    <a href="https://www.linkedin.com/in/gabrielelapiana/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </div>
