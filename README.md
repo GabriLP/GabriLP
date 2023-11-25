@@ -1,6 +1,6 @@
 # <div align="center">Hello, folks! 👋</div>
 
-<div align="center">I'm Gabriele, a front-end developer based in Palermo, Italy. Welcome to my GitHub profile, where I showcase some of my personal projects.</div>
+<div align="center">Welcome to my GitHub profile, where I showcase some of my personal projects.</div>
 
 ## 🔧 My toolbox
 
